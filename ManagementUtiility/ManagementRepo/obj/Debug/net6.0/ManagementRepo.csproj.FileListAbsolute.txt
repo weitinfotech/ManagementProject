@@ -1,0 +1,17 @@
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementRepo\bin\Debug\net6.0\ManagementRepo.deps.json
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementRepo\bin\Debug\net6.0\ManagementRepo.runtimeconfig.json
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementRepo\bin\Debug\net6.0\ManagementRepo.dll
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementRepo\bin\Debug\net6.0\ManagementRepo.pdb
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementRepo\bin\Debug\net6.0\ManagemeantModel.dll
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementRepo\bin\Debug\net6.0\ManagemeantModel.pdb
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementRepo\obj\Debug\net6.0\ManagementRepo.csproj.AssemblyReference.cache
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementRepo\obj\Debug\net6.0\ManagementRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementRepo\obj\Debug\net6.0\ManagementRepo.AssemblyInfoInputs.cache
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementRepo\obj\Debug\net6.0\ManagementRepo.AssemblyInfo.cs
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementRepo\obj\Debug\net6.0\ManagementRepo.csproj.CoreCompileInputs.cache
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementRepo\obj\Debug\net6.0\ManagementRepo.csproj.CopyComplete
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementRepo\obj\Debug\net6.0\ManagementRepo.dll
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementRepo\obj\Debug\net6.0\refint\ManagementRepo.dll
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementRepo\obj\Debug\net6.0\ManagementRepo.pdb
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementRepo\obj\Debug\net6.0\ManagementRepo.genruntimeconfig.cache
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementRepo\obj\Debug\net6.0\ref\ManagementRepo.dll

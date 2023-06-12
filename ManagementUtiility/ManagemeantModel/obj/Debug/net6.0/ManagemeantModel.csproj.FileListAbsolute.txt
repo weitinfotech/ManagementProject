@@ -1,0 +1,12 @@
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagemeantModel\bin\Debug\net6.0\ManagemeantModel.deps.json
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagemeantModel\bin\Debug\net6.0\ManagemeantModel.dll
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagemeantModel\bin\Debug\net6.0\ManagemeantModel.pdb
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagemeantModel\obj\Debug\net6.0\ManagemeantModel.csproj.AssemblyReference.cache
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagemeantModel\obj\Debug\net6.0\ManagemeantModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagemeantModel\obj\Debug\net6.0\ManagemeantModel.AssemblyInfoInputs.cache
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagemeantModel\obj\Debug\net6.0\ManagemeantModel.AssemblyInfo.cs
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagemeantModel\obj\Debug\net6.0\ManagemeantModel.csproj.CoreCompileInputs.cache
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagemeantModel\obj\Debug\net6.0\ManagemeantModel.dll
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagemeantModel\obj\Debug\net6.0\refint\ManagemeantModel.dll
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagemeantModel\obj\Debug\net6.0\ManagemeantModel.pdb
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagemeantModel\obj\Debug\net6.0\ref\ManagemeantModel.dll

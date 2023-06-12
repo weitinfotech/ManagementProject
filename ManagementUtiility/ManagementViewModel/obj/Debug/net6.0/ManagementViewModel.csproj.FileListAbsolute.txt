@@ -1,0 +1,15 @@
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementViewModel\bin\Debug\net6.0\ManagementViewModel.deps.json
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementViewModel\bin\Debug\net6.0\ManagementViewModel.dll
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementViewModel\bin\Debug\net6.0\ManagementViewModel.pdb
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementViewModel\bin\Debug\net6.0\ManagemeantModel.dll
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementViewModel\bin\Debug\net6.0\ManagemeantModel.pdb
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementViewModel\obj\Debug\net6.0\ManagementViewModel.csproj.AssemblyReference.cache
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementViewModel\obj\Debug\net6.0\ManagementViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementViewModel\obj\Debug\net6.0\ManagementViewModel.AssemblyInfoInputs.cache
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementViewModel\obj\Debug\net6.0\ManagementViewModel.AssemblyInfo.cs
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementViewModel\obj\Debug\net6.0\ManagementViewModel.csproj.CoreCompileInputs.cache
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementViewModel\obj\Debug\net6.0\ManagementViewModel.csproj.CopyComplete
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementViewModel\obj\Debug\net6.0\ManagementViewModel.dll
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementViewModel\obj\Debug\net6.0\refint\ManagementViewModel.dll
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementViewModel\obj\Debug\net6.0\ManagementViewModel.pdb
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementViewModel\obj\Debug\net6.0\ref\ManagementViewModel.dll

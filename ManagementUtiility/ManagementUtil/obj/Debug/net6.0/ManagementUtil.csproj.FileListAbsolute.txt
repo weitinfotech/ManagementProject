@@ -1,0 +1,17 @@
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementUtil\bin\Debug\net6.0\ManagementUtil.deps.json
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementUtil\bin\Debug\net6.0\ManagementUtil.dll
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementUtil\bin\Debug\net6.0\ManagementUtil.pdb
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementUtil\bin\Debug\net6.0\ManagemeantModel.dll
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementUtil\bin\Debug\net6.0\ManagementRepo.dll
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementUtil\bin\Debug\net6.0\ManagemeantModel.pdb
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementUtil\bin\Debug\net6.0\ManagementRepo.pdb
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementUtil\obj\Debug\net6.0\ManagementUtil.csproj.AssemblyReference.cache
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementUtil\obj\Debug\net6.0\ManagementUtil.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementUtil\obj\Debug\net6.0\ManagementUtil.AssemblyInfoInputs.cache
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementUtil\obj\Debug\net6.0\ManagementUtil.AssemblyInfo.cs
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementUtil\obj\Debug\net6.0\ManagementUtil.csproj.CoreCompileInputs.cache
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementUtil\obj\Debug\net6.0\ManagementUtil.csproj.CopyComplete
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementUtil\obj\Debug\net6.0\ManagementUtil.dll
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementUtil\obj\Debug\net6.0\refint\ManagementUtil.dll
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementUtil\obj\Debug\net6.0\ManagementUtil.pdb
+C:\DEVDipesh\Projects\management  utility\ManagementUtiility\ManagementUtil\obj\Debug\net6.0\ref\ManagementUtil.dll
