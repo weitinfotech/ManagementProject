@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "qTzdhRRngdxHsdgiua0JjJNu/i2dNhq4qHpRcjAUO2qqJuP1RtzpxEl4BiF0PXbpyyvxNbVDeMSBi5+sPWGWRA==",
+  "success": true,
+  "projectFilePath": "C:\\DEVDipesh\\Projects\\management  utility\\DocumentAIScanner\\DocumentAIScanner\\DocumentAIScanner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\azure.ai.formrecognizer\\4.0.0\\azure.ai.formrecognizer.4.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
