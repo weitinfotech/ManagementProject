@@ -1,0 +1,5 @@
+C:\DEVDipesh\Projects\management  utility\DisablingUAC_Schedular\DisablingUAC_Schedular\obj\Debug\net6.0\DisablingUAC_Schedular.csproj.AssemblyReference.cache
+C:\DEVDipesh\Projects\management  utility\DisablingUAC_Schedular\DisablingUAC_Schedular\obj\Debug\net6.0\DisablingUAC_Schedular.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEVDipesh\Projects\management  utility\DisablingUAC_Schedular\DisablingUAC_Schedular\obj\Debug\net6.0\DisablingUAC_Schedular.AssemblyInfoInputs.cache
+C:\DEVDipesh\Projects\management  utility\DisablingUAC_Schedular\DisablingUAC_Schedular\obj\Debug\net6.0\DisablingUAC_Schedular.AssemblyInfo.cs
+C:\DEVDipesh\Projects\management  utility\DisablingUAC_Schedular\DisablingUAC_Schedular\obj\Debug\net6.0\DisablingUAC_Schedular.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fo62A9l1Z1L5BH3xU63V3R0V5vbQkkeHYfyKFSBNveCwgPt9mCX/egJd0jprM/9rvTzA/dE1DRL3iv8qLkc67w==",
+  "success": true,
+  "projectFilePath": "C:\\DEVDipesh\\Projects\\management  utility\\DisablingUAC_Schedular\\DisablingUAC_Schedular\\DisablingUAC_Schedular.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\system.diagnostics.eventlog.7.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.serviceprocess.servicecontroller\\7.0.1\\system.serviceprocess.servicecontroller.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
